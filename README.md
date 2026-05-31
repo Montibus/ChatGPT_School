@@ -1,1 +1,3 @@
-ChatGPT repository for informing the ChatGPT on the project status
+# Mathematics Repository
+
+Methodologies, standards and problem families.

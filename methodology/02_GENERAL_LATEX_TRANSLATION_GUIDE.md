@@ -1,0 +1,1 @@
+# General LaTeX Translation Guide
